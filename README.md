@@ -32,7 +32,7 @@ ApexTrust Bank currently relies on basic demographic and account-based segmentat
 
 ### Dataset Description
 
-Database: SQLite3 / MongoDB
+Database: MongoDB
 Table: Customer_Transactions
 
 ### Key Features:
@@ -96,7 +96,7 @@ Render / AWS EC2 (cloud deployment).
 
 - Data & Analysis
 - Python (Pandas, NumPy)
-- SQL (SQLite3)
+- Pymongo (MongoDB)
 - Visualization
 - Matplotlib, Seaborn
 - Streamlit
@@ -142,7 +142,7 @@ Render / AWS EC2 (cloud deployment).
 
 Database → Data Processing → Feature Engineering → ML Model → API → Dashboard
 
-Data stored in SQLite/MongoDB
+Data stored in MongoDB
 
 Processed with Python
 
