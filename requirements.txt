@@ -4,7 +4,10 @@ scikit-learn
 matplotlib
 seaborn
 streamlit
-joblib
-accelerate>=1.1.0
+requests
 mlflow
 dagshub
+uvicorn
+fastapi
+pymongo
+python-dotenv
